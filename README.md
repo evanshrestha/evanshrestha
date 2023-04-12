@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evanshrestha
-- 👀 I do machine learning stuff.
+- 👀 I do machine learning stuff
 
 <!---
 evanshrestha/evanshrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
