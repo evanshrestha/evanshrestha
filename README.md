@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @evanshrestha
-- 👀 I’m interested in data science, machine learning, and deep learning.
-- 🌱 I’m currently learning about natural language processing.
+- 👀 I do machine learning stuff.
 
 <!---
 evanshrestha/evanshrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
